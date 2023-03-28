@@ -7,11 +7,11 @@ npm install
 ```
 # run 
 ```sh
-  npm run dev
-  ```
+npm run dev
+```
 # build
 ```sh
-  npm run build
+npm run build
 ```
 # Vue 3 + TypeScript + Vite
 
