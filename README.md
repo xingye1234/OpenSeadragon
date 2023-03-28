@@ -2,11 +2,17 @@
 # OpenSeadragon
 Vue3+OpenSeadragon
 # install
-  npm install
+```sh
+npm install
+```
 # run 
+```sh
   npm run dev
+  ```
 # build
+```sh
   npm run build
+```
 =======
 # Vue 3 + TypeScript + Vite
 
